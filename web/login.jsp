@@ -17,5 +17,7 @@
             Password:<input type="password" name="j_password">
             <input type="submit" value="Login">
      </form>
+        
+     <p>Volver <a href="../index.jsp" >¡aquí!</a></p> 
     </body>
 </html>

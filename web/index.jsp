@@ -15,6 +15,7 @@
         <h1>Hello World!</h1>
         <p>Request a secure Admin page <a href="secureAdmin/pageA.html">here!</a></p>
         <p>Request a secure User page <a href="secureUser/pageU.html" >here!</a></p>
+        <p>JJJJJJ</P>
         
         <!--Proyecto basado en https://netbeans.org/kb/docs/web/security-webapps.html 
         NO MUESTRA COMO FUNCIONAR CON MAPEOS DE GRUPOS A ROLES. Y es lo que yo he adaptado.
